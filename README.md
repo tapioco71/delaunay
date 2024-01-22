@@ -1,2 +1,9 @@
 # delaunay
-2d mesh library using Bowyer-Watson algorithm.
+### _Angelo Rossi <angelo.rossi.homelab@gmail.com>_
+
+This is a project to do ... something.
+
+## License
+
+BSD
+
