@@ -39,6 +39,7 @@
 	       (:file "sources/point")
 	       (:file "sources/edge")
 	       (:file "sources/triangle")
+	       (:file "sources/mesh")
                (:file "sources/delaunay")))
 
 ;;;; End of file delaunay.asd
