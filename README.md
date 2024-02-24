@@ -1,6 +1,8 @@
 # delaunay
 ### _Angelo Rossi <angelo.rossi.homelab@gmail.com>_
 
+# Delaunay
+
 Delaunay mesh generator using Bowyer-Watson algorithm (see https://en.wikipedia.org/wiki/Bowyer%E2%80%93Watson_algorithm)
 
 To load and use the library in the slime environment:
