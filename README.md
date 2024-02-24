@@ -8,7 +8,7 @@ To load and use the library in the slime environment:
 CL-USER> (ql:quickload :delaunay)
 To load "delaunay":
   Load 1 ASDF system:
-    delaunay
+      delaunay
 ; Loading "delaunay"
 ..................................................
 [package delaunay]..
