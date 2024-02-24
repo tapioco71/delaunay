@@ -3,6 +3,8 @@
 
 Delaunay mesh generator using Bowyer-Watson algorithm (see https://en.wikipedia.org/wiki/Bowyer%E2%80%93Watson_algorithm)
 
+To load and use the library in the slime environment:
+
 CL-USER> (ql:quickload :delaunay)
 To load "delaunay":
   Load 1 ASDF system:
